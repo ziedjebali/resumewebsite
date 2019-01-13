@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Resume Website",
+"dataUrl": "New.data.unityweb",
+"asmCodeUrl": "New.asm.code.unityweb",
+"asmMemoryUrl": "New.asm.memory.unityweb",
+"asmFrameworkUrl": "New.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#802C37"
+}
